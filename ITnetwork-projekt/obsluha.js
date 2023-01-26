@@ -1,0 +1,1 @@
+const evidence = new Evidence();
